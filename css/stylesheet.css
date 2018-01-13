@@ -1,0 +1,10 @@
+.nav {
+  background-color: blue;
+  position: absolute;
+  display: inline;
+}
+
+.nav h4 {
+  display: inline;
+  
+}
