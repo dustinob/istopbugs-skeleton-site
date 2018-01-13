@@ -1,2 +1,4 @@
 # I Stop Bugs Custom Screen Website
-A simple site for I STOP BUGS CUSTOM SCREENS
+A simple site for I STOP BUGS CUSTOM SCREENS.
+
+## www.istopbugs.ca
